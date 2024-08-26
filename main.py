@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, jsonify
 import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
 
-API_key = 'AJR2QAEL3BVPAE0B'
+API_key = '4YBAZN65ICY5IIDD'
 app = Flask(__name__)
 
 # Function to fetch and process stock data
