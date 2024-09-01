@@ -10,7 +10,7 @@ This project is a web-based dashboard that visualizes stock data and performs re
 - **Interactive Charts**: View stock data trends through interactive line charts.
 
 ## Live Demo
-You can access the live demo of this project at [Market Risk Monitoring Dashboard](#).
+You can access the live demo of this project at [Market Risk Monitoring Dashboard](https://market-risk-monitoring.onrender.com).
 
 ## Technologies Used
 - **Python**: Backend logic and data processing
